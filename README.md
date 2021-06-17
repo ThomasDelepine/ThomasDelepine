@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @ThomasDelepine
 - 👀 I’m interested in Math and computer sciences
-- 🌱 I’m currently learning both of them
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning both of them at Paris-Saclay University
 
 <!---
 ThomasDelepine/ThomasDelepine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
